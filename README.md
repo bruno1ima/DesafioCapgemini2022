@@ -7,4 +7,4 @@ Códigos feitos:
 2. DesafioCadastro
 3. DesafioAnagrama
 
-Para Executar: Código feito na linguagem Java, para executa-lo basta clonar o repositório, e rodar na sua IDE favorita.
+Para Executar: Código feito na linguagem Java. Para executá-lo basta clonar o repositório, e rodar na IDE de sua preferência.
